@@ -1,0 +1,5 @@
+item = input("What do you want to purchase?: ")
+quantity = int(input("Enter the quantity purchased: "))
+price = float(input("Enter the amount of purchase: "))
+print(f"Your order for {quantity} {item} has been completed...")
+print(f"Your total is: {price}")
