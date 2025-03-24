@@ -13,7 +13,8 @@ capitals = {"India":"New Delhi",
 # for keys in capitals.keys():
 #     print(keys)
 # print(capitals.values())
-for values in capitals.values():
-    print(values)
+# for values in capitals.values():
+    # print(values)
 # for values, keys in capitals.items():
 #     print(f"{values}: {keys}")
+
